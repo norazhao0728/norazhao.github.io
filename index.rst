@@ -11,6 +11,5 @@ Application overviews
    :caption: Section1 
    
    onap_portal
-   application_overviews
    operation
    
