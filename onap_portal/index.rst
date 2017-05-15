@@ -5,4 +5,4 @@ Welcome to ONAP Portal
    :maxdepth: 2
 
    onap_portal
-   badges
+   budeges
