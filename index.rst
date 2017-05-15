@@ -12,4 +12,5 @@ Application overviews
    
    onap_portal
    operation
+   deploy
    
