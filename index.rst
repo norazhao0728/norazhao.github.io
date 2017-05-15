@@ -13,7 +13,7 @@ Application overviews
    onap_portal/index
    operation
    
- .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Section2
    
